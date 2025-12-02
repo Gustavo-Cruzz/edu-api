@@ -124,6 +124,6 @@ Este projeto é apenas para fins educacionais.
 
 ## 👤 Autor
 
-**[SEU NOME]**
+**Gustavo Oliveira Ramos Cruz**
 
 Componente Curricular: Segurança no Processo de Desenvolvimento de Software
