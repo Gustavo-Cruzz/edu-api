@@ -1,6 +1,7 @@
 # edu-api
 
 API educacional para demonstração de práticas de DevSecOps.
+Repositório criado para a aula 10 de Práticas Integradas.
 
 ## 📋 Sobre o Projeto
 
